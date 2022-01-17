@@ -2,7 +2,8 @@
   "AN": {
     "delta": {
       "confirmed": 49,
-      "recovered": 66
+      "recovered": 66,
+      "tested": 295
     },
     "delta21_14": {
       "confirmed": 47
@@ -10,7 +11,7 @@
     "delta7": {
       "confirmed": 449,
       "recovered": 393,
-      "tested": 2995,
+      "tested": 3290,
       "vaccinated1": 4260,
       "vaccinated2": 1226
     },
@@ -75,18 +76,18 @@
     },
     "meta": {
       "date": "2022-01-17",
-      "last_updated": "2022-01-17T22:27:38+05:30",
+      "last_updated": "2022-01-17T22:44:43+05:30",
       "population": 397000,
       "tested": {
-        "date": "2022-01-16",
-        "source": "https://twitter.com/twitter/statuses/1482729404627226627"
+        "date": "2022-01-17",
+        "source": "https://twitter.com/twitter/statuses/1483097694214430720"
       }
     },
     "total": {
       "confirmed": 8695,
       "deceased": 129,
       "recovered": 8117,
-      "tested": 677946,
+      "tested": 678241,
       "vaccinated1": 321885,
       "vaccinated2": 297942
     }
@@ -8716,7 +8717,8 @@
       "confirmed": 31111,
       "deceased": 24,
       "other": 7,
-      "recovered": 29092
+      "recovered": 29092,
+      "tested": 150489
     },
     "delta21_14": {
       "confirmed": 52714
@@ -8726,7 +8728,7 @@
       "deceased": 185,
       "other": 45,
       "recovered": 227889,
-      "tested": 1255424,
+      "tested": 1405913,
       "vaccinated1": 1118504,
       "vaccinated2": 1644626
     },
@@ -9791,12 +9793,12 @@
     },
     "meta": {
       "date": "2022-01-17",
-      "last_updated": "2022-01-17T21:02:27+05:30",
+      "last_updated": "2022-01-17T22:44:43+05:30",
       "notes": "[Dec 10 2021]: MH reconciliation from 1st Nov onwards has caused numbers to have a steep jump\n---------\n[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.\n[Sep 9 2021]: 15066 positive cases and 15793 discharged cases have been reduced from state total based on reconciliation (as mentioned in the bulletin)",
       "population": 122153000,
       "tested": {
-        "date": "2022-01-16",
-        "source": "https://twitter.com/twitter/statuses/1482732006673096707"
+        "date": "2022-01-17",
+        "source": "https://twitter.com/twitter/statuses/1483092031887245319"
       }
     },
     "total": {
@@ -9804,7 +9806,7 @@
       "deceased": 141832,
       "other": 3763,
       "recovered": 6829992,
-      "tested": 71974335,
+      "tested": 72124824,
       "vaccinated1": 84751830,
       "vaccinated2": 58077646
     }
