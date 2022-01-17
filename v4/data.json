@@ -1,11 +1,15 @@
 {
   "AN": {
+    "delta": {
+      "confirmed": 49,
+      "recovered": 66
+    },
     "delta21_14": {
       "confirmed": 47
     },
     "delta7": {
-      "confirmed": 400,
-      "recovered": 327,
+      "confirmed": 449,
+      "recovered": 393,
       "tested": 2995,
       "vaccinated1": 4260,
       "vaccinated2": 1226
@@ -51,23 +55,27 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 49,
+          "recovered": 66
+        },
         "delta21_14": {
           "confirmed": 47
         },
         "delta7": {
-          "confirmed": 400,
-          "recovered": 327
+          "confirmed": 449,
+          "recovered": 393
         },
         "total": {
-          "confirmed": 8646,
+          "confirmed": 8695,
           "deceased": 129,
-          "recovered": 8051
+          "recovered": 8117
         }
       }
     },
     "meta": {
       "date": "2022-01-17",
-      "last_updated": "2022-01-17T11:39:37+05:30",
+      "last_updated": "2022-01-17T22:27:38+05:30",
       "population": 397000,
       "tested": {
         "date": "2022-01-16",
@@ -75,9 +83,9 @@
       }
     },
     "total": {
-      "confirmed": 8646,
+      "confirmed": 8695,
       "deceased": 129,
-      "recovered": 8051,
+      "recovered": 8117,
       "tested": 677946,
       "vaccinated1": 321885,
       "vaccinated2": 297942
@@ -517,7 +525,8 @@
   "AR": {
     "delta": {
       "confirmed": 404,
-      "recovered": 84
+      "recovered": 84,
+      "tested": 1889
     },
     "delta21_14": {
       "confirmed": 18
@@ -525,7 +534,7 @@
     "delta7": {
       "confirmed": 1345,
       "recovered": 221,
-      "tested": 5847,
+      "tested": 7736,
       "vaccinated1": 20237,
       "vaccinated2": 6902
     },
@@ -1163,19 +1172,19 @@
     },
     "meta": {
       "date": "2022-01-17",
-      "last_updated": "2022-01-17T22:06:18+05:30",
+      "last_updated": "2022-01-17T22:27:38+05:30",
       "notes": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "population": 1504000,
       "tested": {
-        "date": "2022-01-16",
-        "source": "https://twitter.com/DirHealth_ArPr/status/1482726564903407617"
+        "date": "2022-01-17",
+        "source": "https://t.me/c19b_data_dump/358"
       }
     },
     "total": {
       "confirmed": 57037,
       "deceased": 282,
       "recovered": 55279,
-      "tested": 1204276,
+      "tested": 1206165,
       "vaccinated1": 854340,
       "vaccinated2": 665040
     }
@@ -2909,18 +2918,18 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 4471,
+      "confirmed": 4574,
       "deceased": 10,
-      "recovered": 5346,
+      "recovered": 5396,
       "tested": 38064
     },
     "delta21_14": {
       "confirmed": 1782
     },
     "delta7": {
-      "confirmed": 36754,
+      "confirmed": 36857,
       "deceased": 45,
-      "recovered": 24024,
+      "recovered": 24074,
       "tested": 365986,
       "vaccinated1": 201416,
       "vaccinated2": 370024
@@ -3729,13 +3738,17 @@
         }
       },
       "Uttar Bastar Kanker": {
+        "delta": {
+          "confirmed": 103,
+          "recovered": 50
+        },
         "delta21_14": {
           "confirmed": 6
         },
         "delta7": {
-          "confirmed": 455,
+          "confirmed": 558,
           "deceased": 1,
-          "recovered": 164,
+          "recovered": 214,
           "vaccinated1": 3681,
           "vaccinated2": 9473
         },
@@ -3746,9 +3759,9 @@
           }
         },
         "total": {
-          "confirmed": 24226,
+          "confirmed": 24329,
           "deceased": 225,
-          "recovered": 23607,
+          "recovered": 23657,
           "tested": 2051,
           "vaccinated1": 547983,
           "vaccinated2": 406305
@@ -3757,7 +3770,7 @@
     },
     "meta": {
       "date": "2022-01-17",
-      "last_updated": "2022-01-17T22:06:18+05:30",
+      "last_updated": "2022-01-17T22:27:38+05:30",
       "population": 28724000,
       "tested": {
         "date": "2022-01-17",
@@ -3765,9 +3778,9 @@
       }
     },
     "total": {
-      "confirmed": 1064187,
+      "confirmed": 1064290,
       "deceased": 13664,
-      "recovered": 1018616,
+      "recovered": 1018666,
       "tested": 15681157,
       "vaccinated1": 19039007,
       "vaccinated2": 13111631
@@ -15303,13 +15316,18 @@
     }
   },
   "TG": {
+    "delta": {
+      "confirmed": 2447,
+      "deceased": 3,
+      "recovered": 2295
+    },
     "delta21_14": {
       "confirmed": 2127
     },
     "delta7": {
-      "confirmed": 13354,
-      "deceased": 14,
-      "recovered": 6287,
+      "confirmed": 15801,
+      "deceased": 17,
+      "recovered": 8582,
       "tested": 434935,
       "vaccinated1": 294108,
       "vaccinated2": 661457
@@ -15677,18 +15695,23 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 2447,
+          "deceased": 3,
+          "recovered": 2295
+        },
         "delta21_14": {
           "confirmed": 2127
         },
         "delta7": {
-          "confirmed": 13354,
-          "deceased": 14,
-          "recovered": 6287
+          "confirmed": 15801,
+          "deceased": 17,
+          "recovered": 8582
         },
         "total": {
-          "confirmed": 709209,
-          "deceased": 4057,
-          "recovered": 683104
+          "confirmed": 711656,
+          "deceased": 4060,
+          "recovered": 685399
         }
       },
       "Vikarabad": {
@@ -15759,7 +15782,7 @@
     },
     "meta": {
       "date": "2022-01-17",
-      "last_updated": "2022-01-17T11:39:37+05:30",
+      "last_updated": "2022-01-17T22:27:38+05:30",
       "notes": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "population": 37220000,
       "tested": {
@@ -15768,9 +15791,9 @@
       }
     },
     "total": {
-      "confirmed": 709209,
-      "deceased": 4057,
-      "recovered": 683104,
+      "confirmed": 711656,
+      "deceased": 4060,
+      "recovered": 685399,
       "tested": 30629520,
       "vaccinated1": 29453696,
       "vaccinated2": 20878720
@@ -17215,36 +17238,36 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 217544,
-      "deceased": 291,
+      "confirmed": 220143,
+      "deceased": 294,
       "other": 275,
-      "recovered": 143861
+      "recovered": 146272
     },
     "delta21_14": {
       "confirmed": 160433
     },
     "delta7": {
-      "confirmed": 1723318,
-      "deceased": 2530,
+      "confirmed": 1725917,
+      "deceased": 2533,
       "other": 1194,
-      "recovered": 810315,
+      "recovered": 812726,
       "tested": 10607002,
       "vaccinated1": 19245728,
       "vaccinated2": 20362296
     },
     "meta": {
       "date": "2022-01-17",
-      "last_updated": "2022-01-17T22:06:18+05:30",
+      "last_updated": "2022-01-17T22:27:38+05:30",
       "population": 1332900000,
       "tested": {
         "date": "2022-01-16"
       }
     },
     "total": {
-      "confirmed": 37597601,
-      "deceased": 486775,
+      "confirmed": 37600200,
+      "deceased": 486778,
       "other": 15225,
-      "recovered": 35372067,
+      "recovered": 35374478,
       "tested": 703762282,
       "vaccinated1": 909575097,
       "vaccinated2": 658018545
@@ -19464,7 +19487,8 @@
       "confirmed": 3295,
       "deceased": 4,
       "other": 251,
-      "recovered": 2067
+      "recovered": 2067,
+      "tested": 39138
     },
     "delta21_14": {
       "confirmed": 854
@@ -19474,7 +19498,7 @@
       "deceased": 15,
       "other": 887,
       "recovered": 6983,
-      "tested": 153691,
+      "tested": 192829,
       "vaccinated1": 88780,
       "vaccinated2": 110606
     },
@@ -19899,12 +19923,11 @@
     },
     "meta": {
       "date": "2022-01-17",
-      "last_updated": "2022-01-17T20:40:24+05:30",
+      "last_updated": "2022-01-17T22:27:38+05:30",
       "notes": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"\n[Jun 30th'21]:145 confirmed cases and 218 deceased cases added of previous days after reconciliation with district and ICMR portal",
       "population": 11141000,
       "tested": {
-        "date": "2022-01-16",
-        "source": "https://t.me/c19b_data_dump/324"
+        "date": "2022-01-17"
       }
     },
     "total": {
@@ -19912,7 +19935,7 @@
       "deceased": 7444,
       "other": 7677,
       "recovered": 339932,
-      "tested": 8834873,
+      "tested": 8874011,
       "vaccinated1": 8334671,
       "vaccinated2": 6722849
     }
