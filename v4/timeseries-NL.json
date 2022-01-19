@@ -15210,22 +15210,24 @@
       "2022-01-19": {
         "delta": {
           "confirmed": 114,
-          "recovered": 40
+          "other": 12,
+          "recovered": 40,
+          "tested": 883
         },
         "delta7": {
           "confirmed": 637,
-          "other": 126,
+          "other": 138,
           "recovered": 225,
-          "tested": 4611,
+          "tested": 5494,
           "vaccinated1": 35784,
           "vaccinated2": 10473
         },
         "total": {
           "confirmed": 33167,
           "deceased": 703,
-          "other": 1272,
+          "other": 1284,
           "recovered": 30664,
-          "tested": 434385,
+          "tested": 435268,
           "vaccinated1": 811430,
           "vaccinated2": 597269
         }
@@ -28328,11 +28330,12 @@
           "2022-01-19": {
             "delta": {
               "confirmed": 82,
+              "other": 11,
               "recovered": 39
             },
             "delta7": {
               "confirmed": 526,
-              "other": 117,
+              "other": 128,
               "recovered": 196,
               "vaccinated1": 6065,
               "vaccinated2": 2075
@@ -28340,7 +28343,7 @@
             "total": {
               "confirmed": 15733,
               "deceased": 432,
-              "other": 893,
+              "other": 904,
               "recovered": 13994,
               "tested": 47020,
               "vaccinated1": 300310,
@@ -92234,11 +92237,12 @@
           },
           "2022-01-19": {
             "delta": {
-              "confirmed": 4
+              "confirmed": 4,
+              "other": 1
             },
             "delta7": {
               "confirmed": 15,
-              "other": 3,
+              "other": 4,
               "recovered": 2,
               "vaccinated1": 433,
               "vaccinated2": 151
@@ -92246,7 +92250,7 @@
             "total": {
               "confirmed": 939,
               "deceased": 6,
-              "other": 18,
+              "other": 19,
               "recovered": 903,
               "tested": 5717,
               "vaccinated1": 23044,
