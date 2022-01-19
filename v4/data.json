@@ -8956,23 +8956,31 @@
     }
   },
   "LD": {
+    "delta": {
+      "confirmed": 42,
+      "recovered": 5
+    },
     "delta21_14": {
       "confirmed": 4
     },
     "delta7": {
-      "confirmed": 110,
-      "recovered": 3,
+      "confirmed": 152,
+      "recovered": 8,
       "vaccinated1": 202,
       "vaccinated2": 172
     },
     "districts": {
       "Lakshadweep": {
+        "delta": {
+          "confirmed": 42,
+          "recovered": 5
+        },
         "delta21_14": {
           "confirmed": 4
         },
         "delta7": {
-          "confirmed": 110,
-          "recovered": 3,
+          "confirmed": 152,
+          "recovered": 8,
           "vaccinated1": 202,
           "vaccinated2": 172
         },
@@ -8984,10 +8992,10 @@
           }
         },
         "total": {
-          "confirmed": 10533,
+          "confirmed": 10575,
           "deceased": 51,
           "other": 44,
-          "recovered": 10327,
+          "recovered": 10332,
           "tested": 263541,
           "vaccinated1": 59229,
           "vaccinated2": 53423
@@ -8996,7 +9004,7 @@
     },
     "meta": {
       "date": "2022-01-18",
-      "last_updated": "2022-01-18T13:04:06+05:30",
+      "last_updated": "2022-01-19T10:38:15+05:30",
       "population": 68000,
       "tested": {
         "date": "2021-10-31",
@@ -9004,10 +9012,10 @@
       }
     },
     "total": {
-      "confirmed": 10533,
+      "confirmed": 10575,
       "deceased": 51,
       "other": 44,
-      "recovered": 10327,
+      "recovered": 10332,
       "tested": 263541,
       "vaccinated1": 59229,
       "vaccinated2": 53423
@@ -17625,37 +17633,38 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 281661,
+      "confirmed": 281703,
       "deceased": 437,
       "other": 220,
-      "recovered": 187256
+      "recovered": 187261,
+      "tested": 2010225
     },
     "delta21_14": {
       "confirmed": 209351
     },
     "delta7": {
-      "confirmed": 1829042,
+      "confirmed": 1829084,
       "deceased": 2542,
       "other": 1276,
-      "recovered": 950607,
-      "tested": 10137045,
+      "recovered": 950612,
+      "tested": 12147270,
       "vaccinated1": 18431113,
       "vaccinated2": 20803762
     },
     "meta": {
       "date": "2022-01-18",
-      "last_updated": "2022-01-19T10:21:28+05:30",
+      "last_updated": "2022-01-19T10:38:15+05:30",
       "population": 1332900000,
       "tested": {
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       }
     },
     "total": {
-      "confirmed": 37898684,
+      "confirmed": 37898726,
       "deceased": 487230,
       "other": 15453,
-      "recovered": 35572614,
-      "tested": 705411425,
+      "recovered": 35572619,
+      "tested": 707421650,
       "vaccinated1": 912936560,
       "vaccinated2": 662420800
     }
