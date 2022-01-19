@@ -3917,8 +3917,8 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 34,
-      "recovered": 24,
+      "confirmed": 40,
+      "recovered": 38,
       "vaccinated1": 816,
       "vaccinated2": 1192
     },
@@ -3926,8 +3926,8 @@
       "confirmed": 12
     },
     "delta7": {
-      "confirmed": 234,
-      "recovered": 125,
+      "confirmed": 240,
+      "recovered": 139,
       "vaccinated1": 7870,
       "vaccinated2": 8766
     },
@@ -3993,9 +3993,13 @@
         }
       },
       "Diu": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 14
+        },
         "delta7": {
-          "confirmed": 24,
-          "recovered": 8,
+          "confirmed": 30,
+          "recovered": 22,
           "vaccinated1": 128,
           "vaccinated2": 98
         },
@@ -4006,8 +4010,8 @@
           }
         },
         "total": {
-          "confirmed": 1242,
-          "recovered": 1226,
+          "confirmed": 1248,
+          "recovered": 1240,
           "tested": 8259,
           "vaccinated1": 42870,
           "vaccinated2": 37014
@@ -4025,10 +4029,10 @@
       }
     },
     "total": {
-      "confirmed": 11075,
+      "confirmed": 11081,
       "deceased": 4,
       "other": 31,
-      "recovered": 10802,
+      "recovered": 10816,
       "tested": 72410,
       "vaccinated1": 746838,
       "vaccinated2": 555859
@@ -17764,10 +17768,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 282945,
+      "confirmed": 282951,
       "deceased": 441,
       "other": 220,
-      "recovered": 187940,
+      "recovered": 187954,
       "tested": 2010225,
       "vaccinated1": 3308913,
       "vaccinated2": 4515018
@@ -17776,10 +17780,10 @@
       "confirmed": 209351
     },
     "delta7": {
-      "confirmed": 1830326,
+      "confirmed": 1830332,
       "deceased": 2546,
       "other": 1276,
-      "recovered": 951291,
+      "recovered": 951305,
       "tested": 12147270,
       "vaccinated1": 21740026,
       "vaccinated2": 25318780
@@ -17794,10 +17798,10 @@
       }
     },
     "total": {
-      "confirmed": 37899968,
+      "confirmed": 37899974,
       "deceased": 487234,
       "other": 15453,
-      "recovered": 35573298,
+      "recovered": 35573312,
       "tested": 707421650,
       "vaccinated1": 916245473,
       "vaccinated2": 666935818
