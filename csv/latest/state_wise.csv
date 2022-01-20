@@ -1,14 +1,14 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,38219315,35798190,487726,1917804,13/08/2021 23:27:22,15595,TT,1502,1022,0,
+Total,38250409,35825463,487782,1921470,13/08/2021 23:27:22,15694,TT,32596,28295,56,
 Andaman and Nicobar Islands,8938,8366,129,443,13/08/2021 23:27:22,0,AN,0,0,0,
-Andhra Pradesh,2127441,2067984,14522,44935,13/08/2021 23:27:22,0,AP,0,0,0,
+Andhra Pradesh,2140056,2071658,14527,53871,13/08/2021 23:27:22,0,AP,12615,3674,5,
 Arunachal Pradesh,57822,55602,282,1938,13/08/2021 23:27:22,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Assam,670128,627372,6248,35161,13/08/2021 23:27:22,1347,AS,0,0,0,[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.
 Bihar,799267,756629,12156,30481,13/08/2021 23:27:22,1,BR,0,0,0,[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities
-Chandigarh,81269,70210,1093,9966,13/08/2021 23:27:22,0,CH,0,0,0,
+Chandigarh,82563,71546,1095,9922,13/08/2021 23:27:22,0,CH,1294,1336,2,
 Chhattisgarh,1075529,1029826,13682,32021,13/08/2021 23:27:22,0,CT,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,11120,10844,4,241,13/08/2021 23:27:22,31,DN,0,0,0,
-Delhi,1747966,1647224,25460,75282,13/08/2021 23:27:22,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change."
+Dadra and Nagar Haveli and Daman and Diu,11159,10870,4,254,13/08/2021 23:27:22,31,DN,39,26,0,
+Delhi,1760272,1666039,25503,68730,13/08/2021 23:27:22,0,DL,12306,18815,43,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change."
 Goa,219107,192724,3576,22807,13/08/2021 23:27:22,0,GA,0,0,0,
 Gujarat,977078,876166,10186,90726,13/08/2021 23:27:22,0,GJ,0,0,0,
 Haryana,873337,803834,10136,59367,13/08/2021 23:27:22,0,HR,0,0,0,
@@ -30,7 +30,7 @@ Maharashtra,7325825,6915407,141934,264708,13/08/2021 23:27:22,3776,MH,0,0,0,"[De
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [Jun 20] : 69 deceased cases have been reduced based on state bulletin.
 [Sep 9 2021]: 15066 positive cases and 15793 discharged cases have been reduced from state total based on reconciliation (as mentioned in the bulletin)"
-Manipur,128657,124278,2015,2364,13/08/2021 23:27:22,0,MN,426,66,0,[Dec 14]:824 out of 980 recovered cases are backdated.
+Manipur,128679,124278,2017,2384,13/08/2021 23:27:22,0,MN,448,66,2,[Dec 14]:824 out of 980 recovered cases are backdated.
 Meghalaya,87075,84139,1492,1444,13/08/2021 23:27:22,0,ML,0,0,0,
 Mizoram,156054,147330,576,8148,13/08/2021 23:27:22,0,MZ,984,927,0,
 Nagaland,33259,30693,704,578,13/08/2021 23:27:22,1284,NL,92,29,0,
@@ -49,6 +49,6 @@ Telangana,718196,689878,4065,24253,13/08/2021 23:27:22,0,TG,0,0,0,"[July 27] : T
 Tripura,95385,86849,852,7619,13/08/2021 23:27:22,65,TR,0,0,0,"[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
 Uttar Pradesh,1882028,1760800,22990,98238,13/08/2021 23:27:22,0,UP,0,0,0,"[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21
 [Jan 9]:Due to reconcillation there are 1286 cases."
-Uttarakhand,382133,343753,7456,22962,13/08/2021 23:27:22,7962,UT,0,0,0,"[Oct 30]: Metric of capturing the testing data has switched to ""Samples Tested"" from ""Samples Collected""
+Uttarakhand,386951,347175,7460,24255,13/08/2021 23:27:22,8061,UT,4818,3422,4,"[Oct 30]: Metric of capturing the testing data has switched to ""Samples Tested"" from ""Samples Collected""
 [Jun 30th'21]:145 confirmed cases and 218 deceased cases added of previous days after reconciliation with district and ICMR portal"
 West Bengal,1928961,1757066,20193,151702,13/08/2021 23:27:22,0,WB,0,0,0,
