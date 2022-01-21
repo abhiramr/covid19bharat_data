@@ -10297,7 +10297,8 @@
   },
   "ML": {
     "delta": {
-      "confirmed": 310,
+      "confirmed": 329,
+      "deceased": 2,
       "recovered": 142,
       "tested": 2614,
       "vaccinated1": 9406,
@@ -10307,8 +10308,8 @@
       "confirmed": 204
     },
     "delta7": {
-      "confirmed": 1589,
-      "deceased": 2,
+      "confirmed": 1608,
+      "deceased": 4,
       "recovered": 759,
       "tested": 17075,
       "vaccinated1": 44011,
@@ -10386,6 +10387,20 @@
           "recovered": 41743,
           "vaccinated1": 354938,
           "vaccinated2": 286534
+        }
+      },
+      "Eastern West Khasi Hills": {
+        "delta": {
+          "confirmed": 19,
+          "deceased": 2
+        },
+        "delta7": {
+          "confirmed": 19,
+          "deceased": 2
+        },
+        "total": {
+          "confirmed": 19,
+          "deceased": 2
         }
       },
       "North Garo Hills": {
@@ -10575,7 +10590,7 @@
     },
     "meta": {
       "date": "2022-01-20",
-      "last_updated": "2022-01-21T10:04:24+05:30",
+      "last_updated": "2022-01-21T11:39:01+05:30",
       "population": 3224000,
       "tested": {
         "date": "2022-01-20",
@@ -10586,8 +10601,8 @@
       }
     },
     "total": {
-      "confirmed": 87385,
-      "deceased": 1492,
+      "confirmed": 87404,
+      "deceased": 1494,
       "recovered": 84281,
       "tested": 1297681,
       "vaccinated1": 1315940,
@@ -17939,8 +17954,8 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 347042,
-      "deceased": 701,
+      "confirmed": 347061,
+      "deceased": 703,
       "other": 137,
       "recovered": 251653,
       "tested": 2182108,
@@ -17951,8 +17966,8 @@
       "confirmed": 387264
     },
     "delta7": {
-      "confirmed": 1983740,
-      "deceased": 3044,
+      "confirmed": 1983759,
+      "deceased": 3046,
       "other": 1163,
       "recovered": 1233008,
       "tested": 12439854,
@@ -17961,7 +17976,7 @@
     },
     "meta": {
       "date": "2022-01-20",
-      "last_updated": "2022-01-21T10:22:10+05:30",
+      "last_updated": "2022-01-21T11:39:01+05:30",
       "population": 1332900000,
       "tested": {
         "date": "2022-01-20"
@@ -17971,8 +17986,8 @@
       }
     },
     "total": {
-      "confirmed": 38564855,
-      "deceased": 488427,
+      "confirmed": 38564874,
+      "deceased": 488429,
       "other": 15732,
       "recovered": 36048821,
       "tested": 711538938,

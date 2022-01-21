@@ -14187,23 +14187,24 @@
       },
       "2022-01-20": {
         "delta": {
-          "confirmed": 310,
+          "confirmed": 329,
+          "deceased": 2,
           "recovered": 142,
           "tested": 2614,
           "vaccinated1": 9406,
           "vaccinated2": 2624
         },
         "delta7": {
-          "confirmed": 1589,
-          "deceased": 2,
+          "confirmed": 1608,
+          "deceased": 4,
           "recovered": 759,
           "tested": 17075,
           "vaccinated1": 44011,
           "vaccinated2": 14817
         },
         "total": {
-          "confirmed": 87385,
-          "deceased": 1492,
+          "confirmed": 87404,
+          "deceased": 1494,
           "recovered": 84281,
           "tested": 1297681,
           "vaccinated1": 1315940,
@@ -44706,6 +44707,24 @@
               "recovered": 41743,
               "vaccinated1": 354938,
               "vaccinated2": 286534
+            }
+          }
+        }
+      },
+      "Eastern West Khasi Hills": {
+        "dates": {
+          "2022-01-20": {
+            "delta": {
+              "confirmed": 19,
+              "deceased": 2
+            },
+            "delta7": {
+              "confirmed": 19,
+              "deceased": 2
+            },
+            "total": {
+              "confirmed": 19,
+              "deceased": 2
             }
           }
         }
