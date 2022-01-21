@@ -13443,6 +13443,7 @@
       "confirmed": 42,
       "deceased": 1,
       "recovered": 45,
+      "tested": 28345,
       "vaccinated1": 4729,
       "vaccinated2": 14647
     },
@@ -13453,7 +13454,7 @@
       "confirmed": 251,
       "deceased": 11,
       "recovered": 216,
-      "tested": 70655,
+      "tested": 180184,
       "vaccinated1": 152412,
       "vaccinated2": 481203
     },
@@ -14117,7 +14118,8 @@
     "meta": {
       "population": 29859000,
       "tested": {
-        "date": "2021-12-08"
+        "date": "2021-12-12",
+        "source": "https://nhm.punjab.gov.in/advertisements/Media_Bulletin/Media%20Bulletin%20COVID-19%2012-12-2021.pdf"
       },
       "vaccinated": {
         "date": "2021-12-12"
@@ -14127,7 +14129,7 @@
       "confirmed": 603739,
       "deceased": 16619,
       "recovered": 586735,
-      "tested": 16351722,
+      "tested": 16461251,
       "vaccinated1": 16807344,
       "vaccinated2": 8388455
     }
