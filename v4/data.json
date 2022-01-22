@@ -9945,18 +9945,18 @@
   },
   "ML": {
     "delta": {
-      "confirmed": 403,
+      "confirmed": 406,
       "deceased": 1,
-      "recovered": 181,
+      "recovered": 185,
       "tested": 2809
     },
     "delta21_14": {
       "confirmed": 319
     },
     "delta7": {
-      "confirmed": 1991,
+      "confirmed": 1994,
       "deceased": 6,
-      "recovered": 973,
+      "recovered": 977,
       "tested": 18161,
       "vaccinated1": 40251,
       "vaccinated2": 12456
@@ -10032,13 +10032,19 @@
         }
       },
       "Eastern West Khasi Hills": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 4
+        },
         "delta7": {
-          "confirmed": 21,
-          "deceased": 2
+          "confirmed": 24,
+          "deceased": 2,
+          "recovered": 4
         },
         "total": {
-          "confirmed": 21,
-          "deceased": 2
+          "confirmed": 24,
+          "deceased": 2,
+          "recovered": 4
         }
       },
       "North Garo Hills": {
@@ -10231,7 +10237,7 @@
     },
     "meta": {
       "date": "2022-01-22",
-      "last_updated": "2022-01-22T23:38:17+05:30",
+      "last_updated": "2022-01-23T00:02:24+05:30",
       "population": 3224000,
       "tested": {
         "date": "2022-01-22",
@@ -10239,9 +10245,9 @@
       }
     },
     "total": {
-      "confirmed": 88138,
+      "confirmed": 88141,
       "deceased": 1496,
-      "recovered": 84639,
+      "recovered": 84643,
       "tested": 1303488,
       "vaccinated1": 1320202,
       "vaccinated2": 925195
@@ -17519,36 +17525,36 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 305135,
+      "confirmed": 305138,
       "deceased": 495,
       "other": 120,
-      "recovered": 242831
+      "recovered": 242835
     },
     "delta21_14": {
       "confirmed": 638059
     },
     "delta7": {
-      "confirmed": 2086478,
+      "confirmed": 2086481,
       "deceased": 3313,
       "other": 1079,
-      "recovered": 1457697,
+      "recovered": 1457701,
       "tested": 11051054,
       "vaccinated1": 17234858,
       "vaccinated2": 23675140
     },
     "meta": {
       "date": "2022-01-22",
-      "last_updated": "2022-01-22T23:38:17+05:30",
+      "last_updated": "2022-01-23T00:02:24+05:30",
       "population": 1332900000,
       "tested": {
         "date": "2022-01-21"
       }
     },
     "total": {
-      "confirmed": 39207796,
+      "confirmed": 39207799,
       "deceased": 489410,
       "other": 15970,
-      "recovered": 36534220,
+      "recovered": 36534224,
       "tested": 713499892,
       "vaccinated1": 924734576,
       "vaccinated2": 679471598
