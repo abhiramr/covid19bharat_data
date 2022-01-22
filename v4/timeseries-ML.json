@@ -14187,23 +14187,24 @@
       },
       "2022-01-20": {
         "delta": {
-          "confirmed": 310,
+          "confirmed": 329,
+          "deceased": 2,
           "recovered": 142,
           "tested": 2614,
           "vaccinated1": 9406,
           "vaccinated2": 2624
         },
         "delta7": {
-          "confirmed": 1589,
-          "deceased": 2,
+          "confirmed": 1608,
+          "deceased": 4,
           "recovered": 759,
           "tested": 17075,
           "vaccinated1": 44011,
           "vaccinated2": 14817
         },
         "total": {
-          "confirmed": 87385,
-          "deceased": 1492,
+          "confirmed": 87404,
+          "deceased": 1494,
           "recovered": 84281,
           "tested": 1297681,
           "vaccinated1": 1315940,
@@ -14212,7 +14213,7 @@
       },
       "2022-01-21": {
         "delta": {
-          "confirmed": 329,
+          "confirmed": 331,
           "deceased": 1,
           "recovered": 177,
           "tested": 2998,
@@ -14220,16 +14221,16 @@
           "vaccinated2": 1380
         },
         "delta7": {
-          "confirmed": 1729,
-          "deceased": 3,
+          "confirmed": 1750,
+          "deceased": 5,
           "recovered": 861,
           "tested": 17464,
           "vaccinated1": 42610,
           "vaccinated2": 13613
         },
         "total": {
-          "confirmed": 87714,
-          "deceased": 1493,
+          "confirmed": 87735,
+          "deceased": 1495,
           "recovered": 84458,
           "tested": 1300679,
           "vaccinated1": 1320202,
@@ -14244,16 +14245,16 @@
           "tested": 2809
         },
         "delta7": {
-          "confirmed": 1970,
-          "deceased": 4,
+          "confirmed": 1991,
+          "deceased": 6,
           "recovered": 973,
           "tested": 18161,
           "vaccinated1": 40251,
           "vaccinated2": 12456
         },
         "total": {
-          "confirmed": 88117,
-          "deceased": 1494,
+          "confirmed": 88138,
+          "deceased": 1496,
           "recovered": 84639,
           "tested": 1303488,
           "vaccinated1": 1320202,
@@ -44878,6 +44879,37 @@
               "recovered": 42024,
               "vaccinated1": 359613,
               "vaccinated2": 287740
+            }
+          }
+        }
+      },
+      "Eastern West Khasi Hills": {
+        "dates": {
+          "2022-01-20": {
+            "delta": {
+              "confirmed": 19,
+              "deceased": 2
+            },
+            "delta7": {
+              "confirmed": 19,
+              "deceased": 2
+            },
+            "total": {
+              "confirmed": 19,
+              "deceased": 2
+            }
+          },
+          "2022-01-21": {
+            "delta": {
+              "confirmed": 2
+            },
+            "delta7": {
+              "confirmed": 21,
+              "deceased": 2
+            },
+            "total": {
+              "confirmed": 21,
+              "deceased": 2
             }
           }
         }
