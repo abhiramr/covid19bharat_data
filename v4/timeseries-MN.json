@@ -14537,6 +14537,32 @@
           "vaccinated1": 1388288,
           "vaccinated2": 1032482
         }
+      },
+      "2022-01-23": {
+        "delta": {
+          "confirmed": 411,
+          "deceased": 3,
+          "recovered": 134,
+          "tested": 2513
+        },
+        "delta7": {
+          "confirmed": 2813,
+          "deceased": 10,
+          "precautionary": 8863,
+          "recovered": 673,
+          "tested": 17881,
+          "vaccinated1": 26451,
+          "vaccinated2": 12915
+        },
+        "total": {
+          "confirmed": 130071,
+          "deceased": 2025,
+          "precautionary": 14929,
+          "recovered": 124634,
+          "tested": 1509630,
+          "vaccinated1": 1388288,
+          "vaccinated2": 1032482
+        }
       }
     },
     "districts": {
@@ -102594,6 +102620,23 @@
               "confirmed": 129660,
               "deceased": 2022,
               "recovered": 124500
+            }
+          },
+          "2022-01-23": {
+            "delta": {
+              "confirmed": 411,
+              "deceased": 3,
+              "recovered": 134
+            },
+            "delta7": {
+              "confirmed": 2813,
+              "deceased": 10,
+              "recovered": 673
+            },
+            "total": {
+              "confirmed": 130071,
+              "deceased": 2025,
+              "recovered": 124634
             }
           }
         }
