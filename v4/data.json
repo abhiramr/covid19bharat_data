@@ -3845,45 +3845,57 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 5760,
+      "deceased": 30,
+      "recovered": 14836,
+      "tested": 48844
+    },
     "delta21_14": {
       "confirmed": 221352
     },
     "delta7": {
-      "confirmed": 138428,
-      "deceased": 466,
+      "confirmed": 144188,
+      "deceased": 496,
       "precautionary": 64190,
-      "recovered": 197434,
-      "tested": 365945,
+      "recovered": 212270,
+      "tested": 414789,
       "vaccinated1": 246432,
       "vaccinated2": 168869
     },
     "districts": {
       "Delhi": {
+        "delta": {
+          "confirmed": 5760,
+          "deceased": 30,
+          "recovered": 14836,
+          "tested": 48844
+        },
         "delta21_14": {
           "confirmed": 221352
         },
         "delta7": {
-          "confirmed": 138428,
-          "deceased": 466,
+          "confirmed": 144188,
+          "deceased": 496,
           "precautionary": 64190,
-          "recovered": 197434,
-          "tested": 365945,
+          "recovered": 212270,
+          "tested": 414789,
           "vaccinated1": 246432,
           "vaccinated2": 168869
         },
         "meta": {
           "population": 19814000,
           "tested": {
-            "date": "2022-01-23",
-            "source": "https://twitter.com/CMODelhi/status/1485248244691369986?s=20"
+            "date": "2022-01-24",
+            "source": "https://twitter.com/ANI/status/1485602657754841089"
           }
         },
         "total": {
-          "confirmed": 2116118,
-          "deceased": 26119,
+          "confirmed": 2121878,
+          "deceased": 26149,
           "precautionary": 211552,
-          "recovered": 1998029,
-          "tested": 34470770,
+          "recovered": 2012865,
+          "tested": 34519614,
           "vaccinated1": 16839347,
           "vaccinated2": 12143267
         }
@@ -3891,20 +3903,20 @@
     },
     "meta": {
       "date": "2022-01-24",
-      "last_updated": "2022-01-24T18:44:50+05:30",
+      "last_updated": "2022-01-24T23:41:38+05:30",
       "notes": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "population": 19814000,
       "tested": {
-        "date": "2022-01-23",
-        "source": "https://twitter.com/CMODelhi/status/1485248244691369986?s=20"
+        "date": "2022-01-24",
+        "source": "https://twitter.com/ANI/status/1485602657754841089"
       }
     },
     "total": {
-      "confirmed": 2116118,
-      "deceased": 26119,
+      "confirmed": 2121878,
+      "deceased": 26149,
       "precautionary": 211552,
-      "recovered": 1998029,
-      "tested": 34470770,
+      "recovered": 2012865,
+      "tested": 34519614,
       "vaccinated1": 16839347,
       "vaccinated2": 12143267
     }
@@ -17262,36 +17274,36 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 191445,
-      "deceased": 350,
+      "confirmed": 197205,
+      "deceased": 380,
       "other": 128,
-      "recovered": 186915
+      "recovered": 201751
     },
     "delta21_14": {
       "confirmed": 1828742
     },
     "delta7": {
-      "confirmed": 4043167,
-      "deceased": 6564,
+      "confirmed": 4048927,
+      "deceased": 6594,
       "other": 1752,
-      "recovered": 3003915,
+      "recovered": 3018751,
       "tested": 11583908,
       "vaccinated1": 15598660,
       "vaccinated2": 23471331
     },
     "meta": {
       "date": "2022-01-24",
-      "last_updated": "2022-01-24T23:19:59+05:30",
+      "last_updated": "2022-01-24T23:41:38+05:30",
       "population": 1332900000,
       "tested": {
         "date": "2022-01-23"
       }
     },
     "total": {
-      "confirmed": 44035722,
-      "deceased": 486063,
+      "confirmed": 44041482,
+      "deceased": 486093,
       "other": 18587,
-      "recovered": 39226117,
+      "recovered": 39240953,
       "tested": 716995333,
       "vaccinated1": 928535220,
       "vaccinated2": 685892131
