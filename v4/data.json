@@ -14081,15 +14081,21 @@
     }
   },
   "TG": {
+    "delta": {
+      "confirmed": 3980,
+      "deceased": 3,
+      "recovered": 2398,
+      "tested": 97113
+    },
     "delta21_14": {
       "confirmed": 25768
     },
     "delta7": {
-      "confirmed": 46318,
-      "deceased": 24,
+      "confirmed": 50298,
+      "deceased": 27,
       "precautionary": 69847,
-      "recovered": 26500,
-      "tested": 669161,
+      "recovered": 28898,
+      "tested": 766274,
       "vaccinated1": 356272,
       "vaccinated2": 1174411
     },
@@ -14452,18 +14458,23 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 3980,
+          "deceased": 3,
+          "recovered": 2398
+        },
         "delta21_14": {
           "confirmed": 25768
         },
         "delta7": {
-          "confirmed": 46318,
-          "deceased": 24,
-          "recovered": 26500
+          "confirmed": 50298,
+          "deceased": 27,
+          "recovered": 28898
         },
         "total": {
-          "confirmed": 780301,
-          "deceased": 4073,
-          "recovered": 715950
+          "confirmed": 784281,
+          "deceased": 4076,
+          "recovered": 718348
         }
       },
       "Vikarabad": {
@@ -14533,20 +14544,20 @@
     },
     "meta": {
       "date": "2022-01-24",
-      "last_updated": "2022-01-24T18:44:50+05:30",
+      "last_updated": "2022-01-24T20:42:03+05:30",
       "notes": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "population": 37220000,
       "tested": {
-        "date": "2022-01-23",
-        "source": "https://pbs.twimg.com/media/FJy4E4UaIAAy26T.jpg"
+        "date": "2022-01-24",
+        "source": "https://pbs.twimg.com/media/FJ38nVnaMAAqtTl.jpg"
       }
     },
     "total": {
-      "confirmed": 780301,
-      "deceased": 4073,
+      "confirmed": 784281,
+      "deceased": 4076,
       "precautionary": 217190,
-      "recovered": 715950,
-      "tested": 31378819,
+      "recovered": 718348,
+      "tested": 31475932,
       "vaccinated1": 29879653,
       "vaccinated2": 22243063
     }
@@ -15809,36 +15820,36 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 32181,
-      "deceased": 39,
+      "confirmed": 36161,
+      "deceased": 42,
       "other": 98,
-      "recovered": 13750
+      "recovered": 16148
     },
     "delta21_14": {
       "confirmed": 1828742
     },
     "delta7": {
-      "confirmed": 3883903,
-      "deceased": 6253,
+      "confirmed": 3887883,
+      "deceased": 6256,
       "other": 1722,
-      "recovered": 2830748,
+      "recovered": 2833146,
       "tested": 11583908,
       "vaccinated1": 15598660,
       "vaccinated2": 23471331
     },
     "meta": {
       "date": "2022-01-24",
-      "last_updated": "2022-01-24T20:05:29+05:30",
+      "last_updated": "2022-01-24T20:42:03+05:30",
       "population": 1332900000,
       "tested": {
         "date": "2022-01-23"
       }
     },
     "total": {
-      "confirmed": 43876458,
-      "deceased": 485752,
+      "confirmed": 43880438,
+      "deceased": 485755,
       "other": 18557,
-      "recovered": 39052950,
+      "recovered": 39055348,
       "tested": 716995333,
       "vaccinated1": 928535220,
       "vaccinated2": 685892131
