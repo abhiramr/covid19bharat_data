@@ -2887,7 +2887,8 @@
   "CH": {
     "delta": {
       "confirmed": 540,
-      "recovered": 1275
+      "recovered": 1275,
+      "tested": 4574
     },
     "delta21_14": {
       "confirmed": 3925
@@ -2897,7 +2898,7 @@
       "deceased": 12,
       "precautionary": 3326,
       "recovered": 9566,
-      "tested": 34775,
+      "tested": 39349,
       "vaccinated1": 7654,
       "vaccinated2": 7304
     },
@@ -2905,7 +2906,8 @@
       "Chandigarh": {
         "delta": {
           "confirmed": 540,
-          "recovered": 1275
+          "recovered": 1275,
+          "tested": 4574
         },
         "delta21_14": {
           "confirmed": 3925
@@ -2915,15 +2917,15 @@
           "deceased": 12,
           "precautionary": 3326,
           "recovered": 9566,
-          "tested": 34775,
+          "tested": 39349,
           "vaccinated1": 7654,
           "vaccinated2": 7304
         },
         "meta": {
           "population": 1055450,
           "tested": {
-            "date": "2022-01-24",
-            "source": "https://t.me/c19b_data_dump/468"
+            "date": "2022-01-25",
+            "source": "https://t.me/c19b_data_dump/477"
           }
         },
         "total": {
@@ -2931,7 +2933,7 @@
           "deceased": 1103,
           "precautionary": 11296,
           "recovered": 78664,
-          "tested": 973835,
+          "tested": 978409,
           "vaccinated1": 1105100,
           "vaccinated2": 841280
         }
@@ -2939,11 +2941,11 @@
     },
     "meta": {
       "date": "2022-01-25",
-      "last_updated": "2022-01-25T22:28:21+05:30",
+      "last_updated": "2022-01-26T00:22:42+05:30",
       "population": 1179000,
       "tested": {
-        "date": "2022-01-24",
-        "source": "https://t.me/c19b_data_dump/468"
+        "date": "2022-01-25",
+        "source": "https://t.me/c19b_data_dump/477"
       }
     },
     "total": {
@@ -2951,7 +2953,7 @@
       "deceased": 1103,
       "precautionary": 11296,
       "recovered": 78664,
-      "tested": 973835,
+      "tested": 978409,
       "vaccinated1": 1105100,
       "vaccinated2": 841280
     }
@@ -10720,7 +10722,7 @@
   },
   "MP": {
     "delta": {
-      "confirmed": 9439,
+      "confirmed": 9451,
       "deceased": 7,
       "recovered": 8467,
       "tested": 72382
@@ -10729,7 +10731,7 @@
       "confirmed": 12035
     },
     "delta7": {
-      "confirmed": 69136,
+      "confirmed": 69148,
       "deceased": 36,
       "precautionary": 136134,
       "recovered": 37692,
@@ -10739,16 +10741,19 @@
     },
     "districts": {
       "Agar Malwa": {
+        "delta": {
+          "confirmed": 12
+        },
         "delta21_14": {
           "confirmed": 9
         },
         "delta7": {
-          "confirmed": 67,
+          "confirmed": 79,
           "recovered": 3,
           "vaccinated1": 290
         },
         "total": {
-          "confirmed": 3381,
+          "confirmed": 3393,
           "deceased": 70,
           "recovered": 3247,
           "vaccinated1": 434094,
@@ -12205,7 +12210,7 @@
     },
     "meta": {
       "date": "2022-01-25",
-      "last_updated": "2022-01-25T22:08:49+05:30",
+      "last_updated": "2022-01-26T00:22:42+05:30",
       "notes": "[13 Jan'22]: MP data Reconciled with latest bulletin format\n[14 Oct'20]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals\n[12 July'21] :1478 deceased cases have been added after reconciliation of deceased cases records from Home Isolation(208), Private Hospitals(762) and other districts data (508)",
       "population": 82232000,
       "tested": {
@@ -12213,7 +12218,7 @@
       }
     },
     "total": {
-      "confirmed": 914183,
+      "confirmed": 914195,
       "deceased": 10583,
       "precautionary": 559670,
       "recovered": 832742,
@@ -12517,6 +12522,7 @@
   "NL": {
     "delta": {
       "confirmed": 164,
+      "deceased": 1,
       "other": 13,
       "recovered": 68,
       "tested": 751
@@ -12526,7 +12532,7 @@
     },
     "delta7": {
       "confirmed": 765,
-      "deceased": 4,
+      "deceased": 5,
       "other": 76,
       "precautionary": 3297,
       "recovered": 363,
@@ -12641,6 +12647,7 @@
       "Mokokchung": {
         "delta": {
           "confirmed": 8,
+          "deceased": 1,
           "recovered": 2
         },
         "delta21_14": {
@@ -12648,6 +12655,7 @@
         },
         "delta7": {
           "confirmed": 20,
+          "deceased": 1,
           "recovered": 4,
           "vaccinated1": 357,
           "vaccinated2": 1
@@ -12660,7 +12668,7 @@
         },
         "total": {
           "confirmed": 2406,
-          "deceased": 56,
+          "deceased": 57,
           "other": 69,
           "recovered": 2262,
           "tested": 3976,
@@ -12825,7 +12833,7 @@
     },
     "meta": {
       "date": "2022-01-25",
-      "last_updated": "2022-01-25T20:08:37+05:30",
+      "last_updated": "2022-01-26T00:22:42+05:30",
       "population": 2150000,
       "tested": {
         "date": "2022-01-25",
@@ -12834,7 +12842,7 @@
     },
     "total": {
       "confirmed": 33818,
-      "deceased": 707,
+      "deceased": 708,
       "other": 1348,
       "precautionary": 8989,
       "recovered": 30987,
@@ -17715,8 +17723,8 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 285709,
-      "deceased": 658,
+      "confirmed": 285721,
+      "deceased": 659,
       "other": 111,
       "recovered": 298262
     },
@@ -17724,8 +17732,8 @@
       "confirmed": 1051628
     },
     "delta7": {
-      "confirmed": 2182756,
-      "deceased": 3919,
+      "confirmed": 2182768,
+      "deceased": 3920,
       "other": 833,
       "recovered": 1786460,
       "tested": 11380783,
@@ -17734,15 +17742,15 @@
     },
     "meta": {
       "date": "2022-01-25",
-      "last_updated": "2022-01-25T23:04:48+05:30",
+      "last_updated": "2022-01-26T00:22:42+05:30",
       "population": 1332900000,
       "tested": {
         "date": "2022-01-24"
       }
     },
     "total": {
-      "confirmed": 40082730,
-      "deceased": 491153,
+      "confirmed": 40082742,
+      "deceased": 491154,
       "other": 16286,
       "recovered": 37359772,
       "tested": 718802433,
