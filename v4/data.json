@@ -3903,28 +3903,32 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 8,
-      "recovered": 18
+      "confirmed": 22,
+      "recovered": 34
     },
     "delta21_14": {
       "confirmed": 136
     },
     "delta7": {
-      "confirmed": 186,
+      "confirmed": 200,
       "other": 1,
       "precautionary": 923,
-      "recovered": 215,
+      "recovered": 231,
       "vaccinated1": 2028,
       "vaccinated2": 4349
     },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 14,
+          "recovered": 16
+        },
         "delta21_14": {
           "confirmed": 58
         },
         "delta7": {
-          "confirmed": 93,
-          "recovered": 104,
+          "confirmed": 107,
+          "recovered": 120,
           "vaccinated1": 328
         },
         "meta": {
@@ -3934,10 +3938,10 @@
           }
         },
         "total": {
-          "confirmed": 6207,
+          "confirmed": 6221,
           "deceased": 3,
           "other": 5,
-          "recovered": 6090,
+          "recovered": 6106,
           "tested": 44813,
           "vaccinated1": 230980,
           "vaccinated2": 105
@@ -3998,7 +4002,7 @@
     },
     "meta": {
       "date": "2022-01-25",
-      "last_updated": "2022-01-25T22:28:21+05:30",
+      "last_updated": "2022-01-25T22:43:21+05:30",
       "population": 959000,
       "tested": {
         "date": "2020-10-20",
@@ -4006,11 +4010,11 @@
       }
     },
     "total": {
-      "confirmed": 11267,
+      "confirmed": 11281,
       "deceased": 4,
       "other": 32,
       "precautionary": 4257,
-      "recovered": 11031,
+      "recovered": 11047,
       "tested": 72410,
       "vaccinated1": 748866,
       "vaccinated2": 560208
@@ -12738,7 +12742,8 @@
     "delta": {
       "confirmed": 5891,
       "deceased": 7,
-      "recovered": 10244
+      "recovered": 10244,
+      "tested": 59807
     },
     "delta21_14": {
       "confirmed": 26109
@@ -12748,7 +12753,7 @@
       "deceased": 44,
       "precautionary": 97164,
       "recovered": 68384,
-      "tested": 421297,
+      "tested": 481104,
       "vaccinated1": 392079,
       "vaccinated2": 702142
     },
@@ -13640,11 +13645,11 @@
     },
     "meta": {
       "date": "2022-01-25",
-      "last_updated": "2022-01-25T21:03:59+05:30",
+      "last_updated": "2022-01-25T22:43:21+05:30",
       "notes": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "population": 43671000,
       "tested": {
-        "date": "2022-01-24",
+        "date": "2022-01-25",
         "source": "https://statedashboard.odisha.gov.in//"
       }
     },
@@ -13653,7 +13658,7 @@
       "deceased": 8585,
       "precautionary": 373259,
       "recovered": 1142161,
-      "tested": 27193858,
+      "tested": 27253665,
       "vaccinated1": 31706801,
       "vaccinated2": 23798618
     }
@@ -17605,36 +17610,36 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 284205,
+      "confirmed": 284219,
       "deceased": 649,
       "other": 111,
-      "recovered": 295133
+      "recovered": 295149
     },
     "delta21_14": {
       "confirmed": 1051628
     },
     "delta7": {
-      "confirmed": 2181252,
+      "confirmed": 2181266,
       "deceased": 3910,
       "other": 833,
-      "recovered": 1783331,
+      "recovered": 1783347,
       "tested": 11380783,
       "vaccinated1": 14399505,
       "vaccinated2": 22826334
     },
     "meta": {
       "date": "2022-01-25",
-      "last_updated": "2022-01-25T22:28:21+05:30",
+      "last_updated": "2022-01-25T22:43:21+05:30",
       "population": 1332900000,
       "tested": {
         "date": "2022-01-24"
       }
     },
     "total": {
-      "confirmed": 40081226,
+      "confirmed": 40081240,
       "deceased": 491144,
       "other": 16286,
-      "recovered": 37356643,
+      "recovered": 37356659,
       "tested": 718802433,
       "vaccinated1": 930644978,
       "vaccinated2": 689762152
