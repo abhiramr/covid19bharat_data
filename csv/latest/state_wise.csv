@@ -1,21 +1,21 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,40459033,37755280,491948,2195375,13/08/2021 23:27:22,16430,TT,89022,88465,215,
+Total,40506836,37847738,492043,2150608,13/08/2021 23:27:22,16447,TT,136825,180923,310,
 Andaman and Nicobar Islands,9605,8931,129,545,13/08/2021 23:27:22,0,AN,0,0,0,
 Andhra Pradesh,2236047,2111975,14579,109493,13/08/2021 23:27:22,0,AP,13474,10290,9,
 Arunachal Pradesh,60792,57199,284,3309,13/08/2021 23:27:22,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
 Assam,704853,661084,6359,36063,13/08/2021 23:27:22,1347,AS,0,0,0,[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.
-Bihar,817825,793024,12204,12596,13/08/2021 23:27:22,1,BR,0,0,0,[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities
+Bihar,818859,796332,12205,10321,13/08/2021 23:27:22,1,BR,1034,3308,1,[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities
 Chandigarh,87418,80164,1105,6149,13/08/2021 23:27:22,0,CH,0,0,0,
 Chhattisgarh,1108450,1065491,13779,29180,13/08/2021 23:27:22,0,CT,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,11298,11085,4,177,13/08/2021 23:27:22,32,DN,0,0,0,
+Dadra and Nagar Haveli and Daman and Diu,11305,11124,4,145,13/08/2021 23:27:22,32,DN,7,39,0,
 Delhi,1810997,1746972,25710,38315,13/08/2021 23:27:22,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change."
 Goa,234084,214735,3630,15719,13/08/2021 23:27:22,0,GA,0,0,0,
 Gujarat,1107749,969234,10323,128192,13/08/2021 23:27:22,0,GJ,0,0,0,
 Haryana,927206,877399,10219,39588,13/08/2021 23:27:22,0,HR,0,0,0,
 Himachal Pradesh,263914,248802,3944,11141,13/08/2021 23:27:22,27,HP,0,0,0,
-Jammu and Kashmir,414772,362168,4635,47969,13/08/2021 23:27:22,0,JK,0,0,0,
+Jammu and Kashmir,419731,368432,4642,46657,13/08/2021 23:27:22,0,JK,4959,6264,7,
 Jharkhand,424337,405143,5286,13908,13/08/2021 23:27:22,0,JH,0,0,0,[2nd Jan '22]: Combined Recoveries and Deceased data added for 31Dec/ 1st Jan and 2nd Jan
-Karnataka,3654413,3257769,38705,357909,13/08/2021 23:27:22,30,KA,0,0,0,
+Karnataka,3692496,3325001,38754,328711,13/08/2021 23:27:22,30,KA,38083,67232,49,
 Kerala,5826596,5463960,52434,309673,13/08/2021 23:27:22,529,KL,51739,42653,153,
 Ladakh,25215,23684,223,1308,13/08/2021 23:27:22,0,LA,0,0,0,
 Lakshadweep,10898,10535,52,267,13/08/2021 23:27:22,44,LD,0,0,0,
@@ -38,7 +38,7 @@ Odisha,1231169,1163396,8603,59170,13/08/2021 23:27:22,0,OR,5901,11157,8,[July 12
 Puducherry,156758,138545,1915,16298,13/08/2021 23:27:22,0,PY,0,0,0,
 Punjab,728042,670642,17081,40319,13/08/2021 23:27:22,0,PB,0,0,0,
 Rajasthan,1171429,1074980,9181,87268,13/08/2021 23:27:22,0,RJ,9227,16087,20,
-Sikkim,37539,34586,425,1928,13/08/2021 23:27:22,600,SK,0,0,0,
+Sikkim,37651,34985,427,1622,13/08/2021 23:27:22,617,SK,112,399,2,
 State Unassigned,0,0,0,0,13/08/2021 23:27:22,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Tamil Nadu,3224236,2973185,37359,213692,13/08/2021 23:27:22,0,TN,0,0,0,"[June 29 2021]: TN has introduced a new district ""Mayiladuthurai"" in the bulletin and has assigned cases from Nagapattinam to the new district.
 [July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
@@ -51,4 +51,4 @@ Uttar Pradesh,1980239,1876791,23106,80342,13/08/2021 23:27:22,0,UP,0,0,0,"[Jan 1
 [Jan 9]:Due to reconcillation there are 1286 cases."
 Uttarakhand,412701,365420,7514,31221,13/08/2021 23:27:22,8546,UT,2439,3999,13,"[Oct 30]: Metric of capturing the testing data has switched to ""Samples Tested"" from ""Samples Collected""
 [Jun 30th'21]:145 confirmed cases and 218 deceased cases added of previous days after reconciliation with district and ICMR portal"
-West Bengal,1979254,1891440,20445,67369,13/08/2021 23:27:22,0,WB,0,0,0,
+West Bengal,1982862,1906656,20481,55725,13/08/2021 23:27:22,0,WB,3608,15216,36,
