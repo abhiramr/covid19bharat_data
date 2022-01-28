@@ -2,7 +2,8 @@
   "AN": {
     "delta": {
       "confirmed": 66,
-      "recovered": 95
+      "recovered": 95,
+      "tested": 568
     },
     "delta21_14": {
       "confirmed": 649
@@ -11,7 +12,7 @@
       "confirmed": 526,
       "precautionary": 942,
       "recovered": 567,
-      "tested": 2211,
+      "tested": 2779,
       "vaccinated1": 3205,
       "vaccinated2": 795
     },
@@ -64,11 +65,10 @@
     },
     "meta": {
       "date": "2022-01-28",
-      "last_updated": "2022-01-28T23:22:34+05:30",
+      "last_updated": "2022-01-29T01:00:21+05:30",
       "population": 397000,
       "tested": {
-        "date": "2022-01-27",
-        "source": "https://twitter.com/twitter/statuses/1486741652572028928"
+        "date": "2022-01-28"
       }
     },
     "total": {
@@ -76,7 +76,7 @@
       "deceased": 129,
       "precautionary": 4503,
       "recovered": 9086,
-      "tested": 682636,
+      "tested": 683204,
       "vaccinated1": 326476,
       "vaccinated2": 300012
     }
@@ -1565,7 +1565,8 @@
     "delta": {
       "confirmed": 1654,
       "deceased": 6,
-      "recovered": 2976
+      "recovered": 2976,
+      "tested": 152084
     },
     "delta21_14": {
       "confirmed": 39540
@@ -1575,7 +1576,7 @@
       "deceased": 38,
       "precautionary": 99638,
       "recovered": 28506,
-      "tested": 786056,
+      "tested": 938140,
       "vaccinated1": 846331,
       "vaccinated2": 1121505
     },
@@ -2635,12 +2636,12 @@
     },
     "meta": {
       "date": "2022-01-28",
-      "last_updated": "2022-01-28T23:22:34+05:30",
+      "last_updated": "2022-01-29T01:00:21+05:30",
       "notes": "[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities",
       "population": 119520000,
       "tested": {
-        "date": "2022-01-27",
-        "source": "https://pbs.twimg.com/media/FKHfVPtUUAs-sqw.jpg"
+        "date": "2022-01-28",
+        "source": "https://twitter.com/BiharHealthDept/status/1487102765356617729"
       }
     },
     "total": {
@@ -2649,7 +2650,7 @@
       "other": 1,
       "precautionary": 436075,
       "recovered": 799308,
-      "tested": 65090713,
+      "tested": 65242797,
       "vaccinated1": 64008819,
       "vaccinated2": 46786804
     }
@@ -8359,6 +8360,9 @@
     }
   },
   "LD": {
+    "delta": {
+      "tested": 1187
+    },
     "delta21_14": {
       "confirmed": 37
     },
@@ -8367,11 +8371,15 @@
       "deceased": 1,
       "precautionary": 152,
       "recovered": 200,
+      "tested": 35858,
       "vaccinated1": 39,
       "vaccinated2": 94
     },
     "districts": {
       "Lakshadweep": {
+        "delta": {
+          "tested": 1187
+        },
         "delta21_14": {
           "confirmed": 37
         },
@@ -8380,14 +8388,15 @@
           "deceased": 1,
           "precautionary": 152,
           "recovered": 200,
+          "tested": 35858,
           "vaccinated1": 39,
           "vaccinated2": 94
         },
         "meta": {
           "population": 64473,
           "tested": {
-            "date": "2021-10-31",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/11888"
+            "date": "2022-01-28",
+            "source": "https://t.me/c19b_data_dump/521"
           }
         },
         "total": {
@@ -8396,7 +8405,7 @@
           "other": 44,
           "precautionary": 1722,
           "recovered": 10568,
-          "tested": 263541,
+          "tested": 299399,
           "vaccinated1": 59374,
           "vaccinated2": 53622
         }
@@ -8404,11 +8413,11 @@
     },
     "meta": {
       "date": "2022-01-28",
-      "last_updated": "2022-01-28T16:40:33+05:30",
+      "last_updated": "2022-01-29T01:00:21+05:30",
       "population": 68000,
       "tested": {
-        "date": "2021-10-31",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/11888"
+        "date": "2022-01-28",
+        "source": "https://t.me/c19b_data_dump/521"
       }
     },
     "total": {
@@ -8417,7 +8426,7 @@
       "other": 44,
       "precautionary": 1722,
       "recovered": 10568,
-      "tested": 263541,
+      "tested": 299399,
       "vaccinated1": 59374,
       "vaccinated2": 53622
     }
