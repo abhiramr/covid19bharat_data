@@ -1091,6 +1091,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "tested": 41134
+    },
     "delta21_14": {
       "confirmed": 16137
     },
@@ -1099,7 +1102,7 @@
       "deceased": 104,
       "precautionary": 36235,
       "recovered": 33318,
-      "tested": 228315,
+      "tested": 269449,
       "vaccinated1": 86912,
       "vaccinated2": 357962
     },
@@ -1425,12 +1428,12 @@
     },
     "meta": {
       "date": "2022-01-28",
-      "last_updated": "2022-01-28T16:40:33+05:30",
+      "last_updated": "2022-01-28T21:04:16+05:30",
       "notes": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "population": 34293000,
       "tested": {
-        "date": "2022-01-27",
-        "source": "https://twitter.com/nhm_assam/status/1486720511149150208?s=20"
+        "date": "2022-01-28",
+        "source": "https://twitter.com/nhm_assam/status/1487080725106999297?s=20"
       }
     },
     "total": {
@@ -1439,7 +1442,7 @@
       "other": 1347,
       "precautionary": 136436,
       "recovered": 665629,
-      "tested": 27719045,
+      "tested": 27760179,
       "vaccinated1": 23124320,
       "vaccinated2": 17815707
     }
@@ -13446,15 +13449,21 @@
     }
   },
   "SK": {
+    "delta": {
+      "confirmed": 165,
+      "deceased": 1,
+      "other": 25,
+      "recovered": 311
+    },
     "delta21_14": {
       "confirmed": 1426
     },
     "delta7": {
-      "confirmed": 1230,
-      "deceased": 8,
-      "other": 95,
+      "confirmed": 1395,
+      "deceased": 9,
+      "other": 120,
       "precautionary": 3584,
-      "recovered": 1962,
+      "recovered": 2273,
       "tested": 6260,
       "vaccinated1": 2458,
       "vaccinated2": 825
@@ -13488,20 +13497,26 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 165,
+          "deceased": 1,
+          "other": 25,
+          "recovered": 311
+        },
         "delta21_14": {
           "confirmed": 1426
         },
         "delta7": {
-          "confirmed": 1230,
-          "deceased": 8,
-          "other": 95,
-          "recovered": 1962
+          "confirmed": 1395,
+          "deceased": 9,
+          "other": 120,
+          "recovered": 2273
         },
         "total": {
-          "confirmed": 37651,
-          "deceased": 427,
-          "other": 617,
-          "recovered": 34985
+          "confirmed": 37816,
+          "deceased": 428,
+          "other": 642,
+          "recovered": 35296
         }
       },
       "West Sikkim": {
@@ -13516,18 +13531,18 @@
     },
     "meta": {
       "date": "2022-01-28",
-      "last_updated": "2022-01-28T16:40:33+05:30",
+      "last_updated": "2022-01-28T21:04:16+05:30",
       "population": 664000,
       "tested": {
         "date": "2022-01-27"
       }
     },
     "total": {
-      "confirmed": 37651,
-      "deceased": 427,
-      "other": 617,
+      "confirmed": 37816,
+      "deceased": 428,
+      "other": 642,
       "precautionary": 14878,
-      "recovered": 34985,
+      "recovered": 35296,
       "tested": 305261,
       "vaccinated1": 558052,
       "vaccinated2": 489560
@@ -15082,36 +15097,36 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 109823,
-      "deceased": 529,
-      "other": 69,
-      "recovered": 104370
+      "confirmed": 109988,
+      "deceased": 530,
+      "other": 94,
+      "recovered": 104681
     },
     "delta21_14": {
       "confirmed": 1482633
     },
     "delta7": {
-      "confirmed": 1827848,
-      "deceased": 3974,
-      "other": 674,
-      "recovered": 1827222,
+      "confirmed": 1828013,
+      "deceased": 3975,
+      "other": 699,
+      "recovered": 1827533,
       "tested": 10248663,
       "vaccinated1": 10594008,
       "vaccinated2": 19331592
     },
     "meta": {
       "date": "2022-01-28",
-      "last_updated": "2022-01-28T20:42:24+05:30",
+      "last_updated": "2022-01-28T21:04:16+05:30",
       "population": 1332900000,
       "tested": {
         "date": "2022-01-27"
       }
     },
     "total": {
-      "confirmed": 40730509,
-      "deceased": 492889,
-      "other": 16524,
-      "recovered": 38118611,
+      "confirmed": 40730674,
+      "deceased": 492890,
+      "other": 16549,
+      "recovered": 38118922,
       "tested": 723748555,
       "vaccinated1": 935328584,
       "vaccinated2": 698803190
