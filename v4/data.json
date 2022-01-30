@@ -11892,27 +11892,38 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 923,
+      "deceased": 5,
+      "recovered": 2433,
+      "tested": 3177
+    },
     "delta21_14": {
       "confirmed": 6988
     },
     "delta7": {
-      "confirmed": 7611,
-      "deceased": 17,
+      "confirmed": 8534,
+      "deceased": 22,
       "precautionary": 2092,
-      "recovered": 10748,
-      "tested": 22987,
+      "recovered": 13181,
+      "tested": 26164,
       "vaccinated1": 3594,
       "vaccinated2": 5709
     },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "confirmed": 186,
+          "deceased": 2,
+          "recovered": 471
+        },
         "delta21_14": {
           "confirmed": 677
         },
         "delta7": {
-          "confirmed": 1471,
-          "deceased": 3,
-          "recovered": 1282
+          "confirmed": 1657,
+          "deceased": 5,
+          "recovered": 1753
         },
         "meta": {
           "notes": "2 case of TN has been transferred,so has been reduced from the total count.",
@@ -11922,21 +11933,25 @@
           }
         },
         "total": {
-          "confirmed": 21712,
-          "deceased": 262,
-          "recovered": 18510,
+          "confirmed": 21898,
+          "deceased": 264,
+          "recovered": 18981,
           "tested": 73142,
           "vaccinated1": 119811,
           "vaccinated2": 42
         }
       },
       "Mahe": {
+        "delta": {
+          "confirmed": 15,
+          "recovered": 15
+        },
         "delta21_14": {
           "confirmed": 150
         },
         "delta7": {
-          "confirmed": 104,
-          "recovered": 203
+          "confirmed": 119,
+          "recovered": 218
         },
         "meta": {
           "notes": "1 case of KL have been transferred,so have been reduced from the total count",
@@ -11946,22 +11961,27 @@
           }
         },
         "total": {
-          "confirmed": 6641,
+          "confirmed": 6656,
           "deceased": 54,
-          "recovered": 6503,
+          "recovered": 6518,
           "tested": 42415,
           "vaccinated1": 37634,
           "vaccinated2": 5
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 650,
+          "deceased": 3,
+          "recovered": 1868
+        },
         "delta21_14": {
           "confirmed": 6109
         },
         "delta7": {
-          "confirmed": 5416,
-          "deceased": 12,
-          "recovered": 9005
+          "confirmed": 6066,
+          "deceased": 15,
+          "recovered": 10873
         },
         "meta": {
           "notes": "209 cases(204 of TN, 1 of AP and 4 other) have been transferred,so have been reduced from the total count.[July 18]4 cases have transferred to TN and have been reduced from recovered cases.",
@@ -11971,22 +11991,26 @@
           }
         },
         "total": {
-          "confirmed": 123453,
-          "deceased": 1496,
-          "recovered": 113303,
+          "confirmed": 124103,
+          "deceased": 1499,
+          "recovered": 115171,
           "tested": 425639,
           "vaccinated1": 591561,
           "vaccinated2": 265
         }
       },
       "Yanam": {
+        "delta": {
+          "confirmed": 72,
+          "recovered": 79
+        },
         "delta21_14": {
           "confirmed": 52
         },
         "delta7": {
-          "confirmed": 620,
+          "confirmed": 692,
           "deceased": 2,
-          "recovered": 258
+          "recovered": 337
         },
         "meta": {
           "notes": "2 cases of AP have been transferred,so have been reduced from the total count",
@@ -11996,9 +12020,9 @@
           }
         },
         "total": {
-          "confirmed": 8018,
+          "confirmed": 8090,
           "deceased": 111,
-          "recovered": 7043,
+          "recovered": 7122,
           "tested": 26727,
           "vaccinated1": 30085,
           "vaccinated2": 8
@@ -12007,19 +12031,19 @@
     },
     "meta": {
       "date": "2022-01-30",
-      "last_updated": "2022-01-30T12:41:23+05:30",
+      "last_updated": "2022-01-30T18:41:15+05:30",
       "population": 1504000,
       "tested": {
-        "date": "2022-01-29",
-        "source": "https://mobile.twitter.com/PdyHealthDept/status/1487343382712111105/photo/1"
+        "date": "2022-01-30",
+        "source": "https://twitter.com/PdyHealthDept/status/1487732735594491913/photo/1"
       }
     },
     "total": {
-      "confirmed": 159824,
-      "deceased": 1923,
+      "confirmed": 160747,
+      "deceased": 1928,
       "precautionary": 7373,
-      "recovered": 145359,
-      "tested": 2156984,
+      "recovered": 147792,
+      "tested": 2160161,
       "vaccinated1": 920991,
       "vaccinated2": 605044
     }
@@ -14496,35 +14520,35 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7023,
-      "deceased": 29,
-      "recovered": 1734
+      "confirmed": 7946,
+      "deceased": 34,
+      "recovered": 4167
     },
     "delta21_14": {
       "confirmed": 1672841
     },
     "delta7": {
-      "confirmed": 1552369,
-      "deceased": 4262,
+      "confirmed": 1553292,
+      "deceased": 4267,
       "other": 648,
-      "recovered": 1906827,
+      "recovered": 1909260,
       "tested": 10395365,
       "vaccinated1": 10483942,
       "vaccinated2": 20456237
     },
     "meta": {
       "date": "2022-01-30",
-      "last_updated": "2022-01-30T18:25:29+05:30",
+      "last_updated": "2022-01-30T18:41:15+05:30",
       "population": 1332900000,
       "tested": {
         "date": "2022-01-29"
       }
     },
     "total": {
-      "confirmed": 41095253,
-      "deceased": 494143,
+      "confirmed": 41096176,
+      "deceased": 494148,
       "other": 16693,
-      "recovered": 38700705,
+      "recovered": 38703138,
       "tested": 727390698,
       "vaccinated1": 939019162,
       "vaccinated2": 706348368
